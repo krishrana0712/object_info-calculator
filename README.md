@@ -13,11 +13,6 @@ A modular C-based computational tool designed to calculate the geometric propert
 * **Environment:** VS Code / GCC
 * **Core Libraries:** `stdio.h`, `math.h`
 
-## 📊 Why This Project?
-As a 1st-year B.Tech student aiming for **Data Science**, this project serves as a foundation for building analytical models. It demonstrates:
-1.  **Logical Structuring:** How to handle multiple user inputs and conditional branching.
-2.  **Mathematical Translation:** Converting manual geometry into automated code—a core skill for financial and structural modeling.
-
 ## 📂 Repository Structure
 * `object_info_calculator.c`: Main source code containing the logic engine.
 * `.gitignore`: Configured to exclude compiled binaries (.exe) for a clean repository.
