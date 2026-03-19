@@ -1,0 +1,16 @@
+# --- C Language Junk ---
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# --- VS Code Junk ---
+.vscode/
+.history/
+*.log
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
